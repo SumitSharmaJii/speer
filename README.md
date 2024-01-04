@@ -1,3 +1,11 @@
+# Speer Technologies Assignment
+A React Native app with search functionality for GitHub users, featuring pagination, and an initial splash screen, designed to view their profiles, followers, and followings with intuitive navigation and skeleton screens for loading states.
+
+
+https://github.com/SumitSharmaJii/speer/assets/76654882/b386553e-8f09-4694-a586-d6e2d92955fe
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
